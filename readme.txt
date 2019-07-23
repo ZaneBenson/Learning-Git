@@ -1,0 +1,1 @@
+Hello! First time intiziling Git in a folder!

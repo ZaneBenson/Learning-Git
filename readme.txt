@@ -1,1 +1,1 @@
-Hello! First time intiziling Git in a folder!
+Hello! First time intiziling Git in a folder! Testing changing the file.
